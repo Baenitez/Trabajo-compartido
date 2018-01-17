@@ -24,9 +24,6 @@ Vamos a ser feliz, vamos a ser feliz
 Felices los 4 
 Yo te acepto el trato 
 
-
-
-
 Y lo hacemos otro rato 
 Y lo hacemos otro rato 
 Y lo hacemos otro rato 
@@ -52,9 +49,6 @@ Y si con otro pasas el rato
 Vamos a ser feliz, vamos a ser feliz 
 Felices los 4 
 Te agrandamos el cuarto 
-
-
-
 
 Y si con otro pasas el rato 
 Vamos a ser feliz, vamos a ser feliz 
@@ -98,5 +92,6 @@ No importa el que dirán, nos gusta así
 Y siempre que se va, regresa a mí 
 (El código secreto Baby) 
 No importa el que dirán, somos tal para cual 
-Así lo quiso el destino mami 
+Así lo quiso el destino mami
+
 Mua
